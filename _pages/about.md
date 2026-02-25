@@ -29,8 +29,8 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [Jan 2026] [AgentMath](https://arxiv.org/abs/2512.20745) accepted by ICLR 2026!
 * [May 2025] [WarriorCoder](https://aclanthology.org/2025.acl-long.246/) accepted by ACL 2025!
 * [May 2025] [AgentGen](https://arxiv.org/abs/2408.00764) accepted by KDD 2025!
-* [Aug 2025] We release [Hunyuan-Large-Vision](https://x.com/TencentHunyuan/status/1955241845308686633) which ranks #5 on LMArena-Vision and is the #1 model of China.
-* [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks #7 on LMArena-Text and is the #2 model of China.
+* [Aug 2025] We release [Hunyuan-Large-Vision](https://x.com/TencentHunyuan/status/1955241845308686633) which ranks #5 globally on LMArena-Vision and is the #1 VLM of China.
+* [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks #7 globally on LMArena-Text and is the #2 LLM of China.
 * [Sep 2024] [WizardArena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) accepted by NeurIPS 2024!
 * [Aug 2023] We release [WizardMath](https://arxiv.org/abs/2308.09583). Accepted by ICLR 2025 as an Oral paper!
 * [Jun 2023] We release [WizardCoder](https://arxiv.org/abs/2306.08568). Accepted by ICLR 2024!
