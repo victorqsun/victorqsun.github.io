@@ -14,9 +14,8 @@ yellow { color: yellow }
 
 # Biography
 * I am a Senior Researcher at Tencent Hunyuan. I earned my Master’s Degree from [Peking University](https://english.pku.edu.cn/) in 2020.
-* I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the state-of-the-art LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
-* My research interests include Natural Language Processing, Reinforcement Learning, and Multimodal LLM. 
-<!-- * More details, please refer to [Publications](https://victorsungo.github.io/publications/) tab. * For years, I also contribute core deep models for [Microsoft Copilot](https://www.bing.com/search?form=NTPCHB&q=Bing+AI&showconv=1), and [XiaoIce](https://www.xiaoice.com/).-->
+* At Hunyuan, I am primarily responsible for research in **Multilingual LLM**, **Agentic RLVR**, **Parallel Thinking**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
+* At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the state-of-the-art LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
 
 
 <!-- # Hiring
