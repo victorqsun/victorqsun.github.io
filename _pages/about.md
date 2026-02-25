@@ -24,10 +24,14 @@ yellow { color: yellow }
 I'm always looking for highly self-motivated students to work with me as research interns. Please email me if you are passionate about natural language processing. -->
 
 # News
-* 2 papers accepted by ICLR 2024!
-* [Aug 2023] We release [WizardMath](https://arxiv.org/abs/2308.09583).
-* [Jun 2023] We release [WizardCoder](https://arxiv.org/abs/2306.08568).
-* [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Project link: [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM)
+* [Jan 2026] [AgentMath](https://arxiv.org/abs/2512.20745) accepted by ICLR 2026!
+* [May 2025] [WarriorCoder](https://aclanthology.org/2025.acl-long.246/) accepted by ACL 2025!
+* [May 2025] [AgentGen](https://arxiv.org/abs/2408.00764) accepted by KDD 2025!
+* [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks #7 on LMArena and is the #2 model of China.
+* [Sep 2024] [WizardArena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) accepted by NeurIPS 2024!
+* [Aug 2023] We release [WizardMath](https://arxiv.org/abs/2308.09583). Accepted by ICLR 2025 as an Oral paper!!
+* [Jun 2023] We release [WizardCoder](https://arxiv.org/abs/2306.08568). Accepted by ICLR 2024!
+* [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Accepted by ICLR 2024! Project link: [https://github.com/nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) 
 * 2 papers accepted by ACL 2023!
 * 1 paper accepted by EMNLP 2022!
 * 1 paper accepted by NAACL 2022 as an Oral paper!
