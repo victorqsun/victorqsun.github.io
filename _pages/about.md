@@ -91,15 +91,16 @@ I'm always looking for highly self-motivated students to work with me as researc
   EMNLP 2019
 
 # Experiences
-* July. 2020 - Now, Research Scientist, Microsoft AI.
+* Dec. 2024 - Now, Senior Researcher, Tencent Hunyuan X.
+* July. 2020 - Dec. 2024, Research Scientist, Microsoft AI.
 * Sept. 2018 - June. 2020, Research Intern, Microsoft XiaoIce.
 
 # Academic Services
 Program Committee for
-* ICLR 2025
+* ICLR 2025, 2026
 * NeurIPS 2024
 * NAACL 2024
-* ACL 2023
+* ACL 2023, 2026
 * EACL 2023
 * KDD 2022, 2023
 * EMNLP 2022
