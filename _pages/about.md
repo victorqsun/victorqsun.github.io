@@ -13,8 +13,8 @@ yellow { color: yellow }
 </style>
 
 # Biography
-* I am a Senior Researcher at Tencent Hunyuan. I earned my Master’s Degree from [Peking University](https://english.pku.edu.cn/) in 2020.
-* At Hunyuan, I am primarily responsible for research in **Multilingual LLM**, **Agentic RLVR**, **Parallel Thinking**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
+* I am a Senior Researcher at Tencent Hunyuan. I earned my Master’s Degree from [Peking University](https://english.pku.edu.cn/) in 2020 and Bachelor's degree from [HFUT](https://en.hfut.edu.cn/).
+* My research mainly focuses on **Multilingual LLM**, **Agentic RLVR**, **Parallel Thinking**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
 * At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the state-of-the-art LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
 
 
