@@ -29,7 +29,6 @@ I'm always looking for highly self-motivated students to work with me as researc
 # News
 * [Jan 2026] [AgentMath](https://arxiv.org/abs/2512.20745) accepted by ICLR 2026!
 * [Aug 2025] We release [Hunyuan-Large-Vision](https://x.com/TencentHunyuan/status/1955241845308686633) which  ranks <red>#5 globally on LMArena-Vision</red> and is the <red>#1 VLM of China</red>.
-
 * [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks <red>#7 globally on LMArena-Text<red/> and is the <red>#2 LLM of China<red/>.
 * [May 2025] [AgentGen](https://arxiv.org/abs/2408.00764) accepted by KDD 2025!
 * [May 2025] [WarriorCoder](https://aclanthology.org/2025.acl-long.246/) accepted by ACL 2025!
