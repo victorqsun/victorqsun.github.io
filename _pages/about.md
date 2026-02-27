@@ -14,9 +14,9 @@ blue { color: blue }
 </style>
 
 # Biography
-* I am a Senior Researcher at Tencent Hunyuan. I earned my Master’s Degree from [Peking University](https://english.pku.edu.cn/) in 2020 and Bachelor's degree from [HFUT](https://en.hfut.edu.cn/).
+* I am a Senior Researcher at Tencent Hunyuan. I earned my M.S. degree from [Peking University](https://english.pku.edu.cn/) in 2020 and B.S. degree from [HFUT](https://en.hfut.edu.cn/).
 * My research mainly focuses on **Multilingual LLM**, **Agentic RLVR**, **Parallel Thinking**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
-* At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the state-of-the-art LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
+* At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the SOTA LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
 * We are hiring researchers and interns（青云计划）! If you have strong experiences in LLMs and are willing to work in Hunyuan, feel free to shoot me your resume.
 
 
@@ -28,19 +28,19 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 # News
 * [Jan 2026] [AgentMath](https://arxiv.org/abs/2512.20745) accepted by ICLR 2026!
-* [Aug 2025] We release [Hunyuan-Large-Vision](https://x.com/TencentHunyuan/status/1955241845308686633) which   [<blue>ranks #5 globally on LMArena-Vision and is the #1 VLM of China.</blue>]
+* [Aug 2025] We release [Hunyuan-Large-Vision](https://x.com/TencentHunyuan/status/1955241845308686633) which  ranks <red>#5 globally on LMArena-Vision</red> and is the <red>#1 VLM of China</red>.
 
-* [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks #7 globally on LMArena-Text and is the #2 LLM of China.
+* [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks <red>#7 globally on LMArena-Text<red/> and is the <red>#2 LLM of China<red/>.
 * [May 2025] [AgentGen](https://arxiv.org/abs/2408.00764) accepted by KDD 2025!
 * [May 2025] [WarriorCoder](https://aclanthology.org/2025.acl-long.246/) accepted by ACL 2025!
 * [Sep 2024] [WizardArena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) accepted by NeurIPS 2024!
-* [Sep 2024] Wizard models achieves 3M+ HF downloads, 9K+ Github stars and ranks #4 globally (#1 opensource) on LMSYS Arena!
-* [Aug 2023] We release [WizardMath](https://arxiv.org/abs/2308.09583). Accepted by ICLR 2025 as an Oral paper!
+* [Oct 2024] Wizard models achieves <red>3M+ HF downloads, 9K+ Github stars and ranks #4 globally (#1 opensource) on LMSYS Arena!</red>
+* [Aug 2023] We release [WizardMath](https://arxiv.org/abs/2308.09583). Accepted by ICLR 2025 as an <red>Oral paper</red>!
 * [Jun 2023] We release [WizardCoder](https://arxiv.org/abs/2306.08568). Accepted by ICLR 2024!
 * [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Accepted by ICLR 2024! Project link: [WizardLM](https://github.com/nlpxucan/WizardLM) .
 * 2 papers accepted by ACL 2023!
 * 1 paper accepted by EMNLP 2022!
-* 1 paper accepted by NAACL 2022 as an Oral paper!
+* 1 paper accepted by NAACL 2022 as an <red>Oral paper</red>!
 * 2 papers accepted by ACL 2022!
 * 1 paper accepted by EMNLP 2019!
  
@@ -80,21 +80,12 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/abs/2211.05719) <br> 
   Jiazhan Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Pu Zhao, Yaming Yang, Chongyang Tao, Dongyan Zhao, Qingwei Lin <br> 
   ACL 2023
-* [Adversarial Knowledge Stimulated Contrastive Prompting for Few-shot Language Learners](https://aclanthology.org/2023.findings-acl.852/) <br> 
-  Kai Zheng, <b>Qingfeng Sun</b>, Yaming Yang, Tengchao Lv, Yeyong Pi, Changlin Zhao, Fei Xu, Qi Zhang <br>
-  ACL 2023, Findings
 * [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)  <br> 
   <b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang <br>
   NAACL 2022 [<red>Oral Paper</red>]
 * [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) <br> 
   <b>Qingfeng Sun</b>, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang   
   ACL 2022
-* [PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/abs/2202.12499) <br> 
-  Yufei Wang, Can Xu, <b>Qingfeng Sun</b>, Huang Hu, Chongyang Tao, Xiubo Geng, Daxin Jiang <br> 
-  ACL 2022
-* [Knowledge Stimulated Contrastive Prompting for Low-Resource Stance Detection](https://aclanthology.org/2022.findings-emnlp.83/) <br>
-  Kai Zheng, <b>Qingfeng Sun</b>, Yaming Yang, Fei Xu <br>
-  EMNLP 2022, Findings
 * [Hierarchical Attention Prototypical Networks for Few-Shot Text Classification](https://aclanthology.org/D19-1045) <br> 
   Shengli Sun<b><sup>*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Kevin Zhou, Tengchao Lv <br> 
   EMNLP 2019
