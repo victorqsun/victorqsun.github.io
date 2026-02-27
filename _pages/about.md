@@ -48,7 +48,7 @@ I'm always looking for highly self-motivated students to work with me as researc
   <br>Haipeng Luo<b><sup>#</sup></b>, Huawen Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
   ICLR 2026
 * [Zero Reinforcement Learning Towards General Domains](https://arxiv.org/abs/2510.25528)
-  <br>Yuyuan Zeng, Yufei Huang, Can Xu, Qingfeng Sun, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
+  <br>Yuyuan Zeng, Yufei Huang, Can Xu, <b>Qingfeng Sun</b>, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
   arXiv preprint arXiv:2510.25528
 * [WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://aclanthology.org/2025.acl-long.246/)
   <br>Huawen Feng<b><sup>#</sup></b>, Pu Zhao, <b>Qingfeng Sun</b>, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
@@ -57,7 +57,7 @@ I'm always looking for highly self-motivated students to work with me as researc
   Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
   KDD 2025
 * [Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/abs/2505.15431)
-  <br>Tencent Hunyuan Team<br>
+  <br>Tencent Hunyuan Team, Core Contributor<br>
   arXiv preprint arXiv:2505.15431
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) <br> 
   Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
