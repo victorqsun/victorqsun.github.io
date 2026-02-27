@@ -45,7 +45,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 * 1 paper accepted by EMNLP 2019!
  
 
-# Publications <!--  [Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en) -->
+# Selected Publications [Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en)
 ### &ensp;&ensp;&ensp; (<b><sup> *</sup></b>: Equal contribution, <b><sup>#</sup></b>: The intern I mentored)
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>#</sup></b>, Huawen Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
@@ -98,6 +98,13 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [Hierarchical Attention Prototypical Networks for Few-Shot Text Classification](https://aclanthology.org/D19-1045) <br> 
   Shengli Sun<b><sup>*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Kevin Zhou, Tengchao Lv <br> 
   EMNLP 2019
+
+# Open-source Projects
+(showing only those I'm the project lead):
+* [WizardLM](https://github.com/nlpxucan/WizardLM) LLMs Family: WizardLM, WizardCoder, WizardMath
+* [Llama-X](https://github.com/AetherCortex/Llama-X) Open Academic Research on Improving LLaMA to SOTA LLM
+* [MMDialog](https://github.com/victorsungo/MMDialog) A Large-scale Multi-turn Dataset Towards VLM
+* [PromDA](https://github.com/GaryYufei/PromDA) Prompt-based Data Augmentation for Low-Resource NLU Tasks
 
 # Experiences
 * Dec. 2024 - Now, Senior Researcher, Tencent Hunyuan X.
