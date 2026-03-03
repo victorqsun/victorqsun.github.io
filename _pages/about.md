@@ -65,8 +65,8 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 ## RLVR & RLHF:
 * [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) <br> 
-  Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
-  ***ICLR 2025*** [<red>Oral Paper</red>]
+  Haipeng Luo<b>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
+  ***ICLR 2025, <red>Oral Paper</red>*** 
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) <br> 
   Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
   ***NeurIPS 2024***
@@ -95,7 +95,7 @@ I'm always looking for highly self-motivated students to work with me as researc
   ***ACL 2022***
 * [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)  <br> 
   <b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang <br>
-  ***NAACL 2022*** [<red>Oral Paper</red>]
+  ***NAACL 2022, <red>Oral Paper</red>***
 
 
 # Open-source Projects
