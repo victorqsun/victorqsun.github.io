@@ -65,7 +65,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 ## RLVR & RLHF:
 * [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) 
-  <br>Haipeng Luo<b><sup>#</sup></b>, <b>Qingfeng Sun</b><sup>*</sup>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
+  <br>Haipeng Luo<b><sup>#</sup></b>, <b>Qingfeng Sun</b> <b><sup>#</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
   ***ICLR 2025, <red>Oral Paper</red>*** 
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html)
   <br>Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun</b><sup>*</sup>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
