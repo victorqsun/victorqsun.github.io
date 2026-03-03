@@ -15,7 +15,7 @@ blue { color: blue }
 
 # Biography
 * I am a Senior Researcher at Tencent Hunyuan. I earned my M.S. degree from [Peking University](https://english.pku.edu.cn/) in 2020 and B.S. degree from [HFUT](https://en.hfut.edu.cn/).
-* My research mainly focuses on **Multilingual LLM**, **Agentic & Reasoning RL**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan Turbos & 2.0, which involved 10+ topics.
+* At Hunyuan, my research mainly focuses on **Multilingual LLM**, **Agentic & Reasoning RL**, and **Synthetic data**.
 * At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the SOTA LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
 * We are hiring researchers and interns（青云计划）! If you have strong experiences in LLMs and are willing to work in Hunyuan, feel free to shoot me your resume.
 
@@ -93,8 +93,8 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) <br> 
   <b>Qingfeng Sun</b>, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang   
   ***ACL 2022***
-* [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)  
-  <br><b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang<br>
+* [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610) <br>
+  <b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang<br>
   ***NAACL 2022, <red>Oral Paper</red>***
 
 
