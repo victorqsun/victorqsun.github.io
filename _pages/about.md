@@ -65,10 +65,10 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 ## RLVR & RLHF:
 * [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) 
-  <br>Haipeng Luo<b><sup>\#</sup></b>, <br>Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
+  <br>Haipeng Luo<b><sup>\#</sup></b>, Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
   ***ICLR 2025, <red>Oral Paper</red>*** 
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html)
-  <br>Haipeng Luo<b><sup>\#\*</sup></b>, <br>Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
+  <br>Haipeng Luo<b><sup>\#\*</sup></b>, Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
   ***NeurIPS 2024***
 * [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
   <br>Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma<br>
@@ -85,7 +85,7 @@ I'm always looking for highly self-motivated students to work with me as researc
   <br>Tencent Hunyuan Team, <b>Core Contributor</b><br>
   *arXiv preprint arXiv:2505.15431*
 * [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
-  <br>Can Xu<b><sup>\*</sup></b>, <br>Qingfeng Sun<b><sup>\*</sup></b>, Kai Zheng<b><sup>\*</sup></b>, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang<br>
+  <br>Can Xu<b><sup>\*</sup></b>, Qingfeng Sun<b><sup>\*</sup></b>, Kai Zheng<b><sup>\*</sup></b>, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang<br>
   ***ICLR 2024***
 * [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/abs/2211.05719)
   <br>Jiazhan Feng<b><sup>\#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Pu Zhao, Yaming Yang, Chongyang Tao, Dongyan Zhao, Qingwei Lin<br> 
