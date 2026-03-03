@@ -81,8 +81,6 @@ I'm always looking for highly self-motivated students to work with me as researc
   *arXiv preprint arXiv:2510.25528*
 
 ## General LLM & VLM: 
-* [Hunyuan-2.0 Thinking & Instruct](https://x.com/TencentHunyuan/status/1996948083377332614?lang=en)
-  <br>Tencent Hunyuan Team, <b>Core Contributor</b><br>
 * [Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/abs/2505.15431)
   <br>Tencent Hunyuan Team, <b>Core Contributor</b><br>
   *arXiv preprint arXiv:2505.15431*
