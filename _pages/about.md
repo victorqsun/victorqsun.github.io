@@ -54,6 +54,9 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
   Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
   KDD 2025
+* [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](https://arxiv.org/abs/2601.18467)
+<br>Yuhang Zhou, Kai Zheng, Qiguang Chen, Mengkang Hu, <b>Qingfeng Sun</b>, Can Xu, Jingjing Chen <br> 
+  arXiv preprint arXiv:2601.18467
 * [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568) <br> 
   Ziyang Luo, Can Xu, Pu Zhao, <b>Qingfeng Sun</b>, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang <br> 
   ICLR 2024
