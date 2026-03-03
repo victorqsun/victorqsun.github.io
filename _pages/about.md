@@ -44,7 +44,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 * 1 paper accepted by EMNLP 2019!
  
 
-# Selected Publications [Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en)
+# Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en)]
 ### (<b><sup> *</sup></b>: Equal contribution, <b><sup>#</sup></b>: The intern I mentored)
 ## Agentic & Code LLM: 
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
