@@ -15,7 +15,7 @@ blue { color: blue }
 
 # Biography
 * I am a Senior Researcher at Tencent Hunyuan. I earned my M.S. degree from [Peking University](https://english.pku.edu.cn/) in 2020 and B.S. degree from [HFUT](https://en.hfut.edu.cn/).
-* My research mainly focuses on **Multilingual LLM**, **Agentic RL**, **Reasoning RL**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
+* My research mainly focuses on **Multilingual LLM**, **Agentic & Reasoning RL**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan Turbos & 2.0, which involved 10+ topics.
 * At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the SOTA LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
 * We are hiring researchers and interns（青云计划）! If you have strong experiences in LLMs and are willing to work in Hunyuan, feel free to shoot me your resume.
 
@@ -46,9 +46,27 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 # Selected Publications [Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en)
 ### &ensp;&ensp;&ensp; (<b><sup> *</sup></b>: Equal contribution, <b><sup>#</sup></b>: The intern I mentored)
+
+## Agentic & Code LLM: 
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>#</sup></b>, Huawen Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
   ICLR 2026
+* [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
+  Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
+  KDD 2025
+* [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568) <br> 
+  Ziyang Luo, Can Xu, Pu Zhao, <b>Qingfeng Sun</b>, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang <br> 
+  ICLR 2024
+* [WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://aclanthology.org/2025.acl-long.246/)
+  <br>Huawen Feng<b><sup>#</sup></b>, Pu Zhao, <b>Qingfeng Sun</b>, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
+  ACL 2025
+  
+## RLVR & RLHF:
+* [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) <br> 
+  Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
+* [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) <br> 
+  Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
+  NeurIPS 2024
 * [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
   Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma
   arXiv preprint arXiv:2603.01571
@@ -58,42 +76,24 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [Zero Reinforcement Learning Towards General Domains](https://arxiv.org/abs/2510.25528)
   <br>Yuyuan Zeng, Yufei Huang, Can Xu, <b>Qingfeng Sun</b>, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
   arXiv preprint arXiv:2510.25528
-* [WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://aclanthology.org/2025.acl-long.246/)
-  <br>Huawen Feng<b><sup>#</sup></b>, Pu Zhao, <b>Qingfeng Sun</b>, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
-  ACL 2025
-* [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
-  Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
-  KDD 2025
-* [Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/abs/2505.15431)
-  <br>Tencent Hunyuan Team, Core Contributor<br>
-  arXiv preprint arXiv:2505.15431
-* [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) <br> 
-  Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
-  NeurIPS 2024
-* [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
-  Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br> 
-  KDD 2025
-* [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) <br> 
-  Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br> 
-  ICLR 2025 [<red>Oral Paper</red>]
+
+## General LLM & VLM: 
 * [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244) <br> 
   Can Xu<b><sup>*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Kai Zheng<b><sup>*</sup></b>, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang <br> 
   ICLR 2024
-* [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568) <br> 
-  Ziyang Luo, Can Xu, Pu Zhao, <b>Qingfeng Sun</b>, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang <br> 
-  ICLR 2024
+* [Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/abs/2505.15431)
+  <br>Tencent Hunyuan Team, Core Contributor<br>
+  arXiv preprint arXiv:2505.15431
 * [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/abs/2211.05719) <br> 
   Jiazhan Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Pu Zhao, Yaming Yang, Chongyang Tao, Dongyan Zhao, Qingwei Lin <br> 
   ACL 2023
-* [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)  <br> 
-  <b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang <br>
-  NAACL 2022 [<red>Oral Paper</red>]
 * [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) <br> 
   <b>Qingfeng Sun</b>, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang   
   ACL 2022
-* [Hierarchical Attention Prototypical Networks for Few-Shot Text Classification](https://aclanthology.org/D19-1045) <br> 
-  Shengli Sun<b><sup>*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Kevin Zhou, Tengchao Lv <br> 
-  EMNLP 2019
+* [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)  <br> 
+  <b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang <br>
+  NAACL 2022 [<red>Oral Paper</red>]
+
 
 # Open-source Projects
 (showing only those I'm the project lead):
