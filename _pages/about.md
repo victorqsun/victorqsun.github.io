@@ -15,7 +15,7 @@ blue { color: blue }
 
 # Biography
 * I am a Senior Researcher at Tencent Hunyuan. I earned my M.S. degree from [Peking University](https://english.pku.edu.cn/) in 2020 and B.S. degree from [HFUT](https://en.hfut.edu.cn/).
-* My research mainly focuses on **Multilingual LLM**, **Agentic RLVR**, **Parallel Thinking**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
+* My research mainly focuses on **Multilingual LLM**, **Agentic RL**, **Reasoning RL**, and **Synthetic data**. I also **co-lead the fusion post-training** of Hunyuan 2.0/2.1, which involved 10+ topics.
 * At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the SOTA LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
 * We are hiring researchers and interns（青云计划）! If you have strong experiences in LLMs and are willing to work in Hunyuan, feel free to shoot me your resume.
 
@@ -49,6 +49,12 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>#</sup></b>, Huawen Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
   ICLR 2026
+* [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
+  Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma
+  arXiv preprint arXiv:2603.01571
+* [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://arxiv.org/abs/2603.01562)
+  Qiyuan Zhang, Junyi Zhou, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Peng Kang, Xue Liu, Chen Ma
+  arXiv preprint arXiv:2603.01562
 * [Zero Reinforcement Learning Towards General Domains](https://arxiv.org/abs/2510.25528)
   <br>Yuyuan Zeng, Yufei Huang, Can Xu, <b>Qingfeng Sun</b>, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
   arXiv preprint arXiv:2510.25528
