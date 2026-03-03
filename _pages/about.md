@@ -45,7 +45,7 @@ I'm always looking for highly self-motivated students to work with me as researc
  
 
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en)]
-### (<b><sup> *</sup></b>: Equal contribution, <b><sup>#</sup></b>: The intern I mentored)
+### (<b><sup>*</sup></b>: Equal contribution, <b><sup>#</sup></b>: The intern I mentored)
 ## Agentic & Code LLM: 
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>#</sup></b>, Huawen Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
@@ -68,7 +68,7 @@ I'm always looking for highly self-motivated students to work with me as researc
   <br>Haipeng Luo<b><sup>#</sup></b>, <b>Qingfeng Sun</b> <b><sup>#</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
   ***ICLR 2025, <red>Oral Paper</red>*** 
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html)
-  <br>Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun</b><sup>*</sup>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
+  <br>Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun</b> <b><sup>\*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
   ***NeurIPS 2024***
 * [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
   <br>Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma<br>
