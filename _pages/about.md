@@ -50,52 +50,54 @@ I'm always looking for highly self-motivated students to work with me as researc
 ## Agentic & Code LLM: 
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>#</sup></b>, Huawen Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
-  ICLR 2026
+  ***ICLR 2026***
 * [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
   Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
-  KDD 2025
+  ***KDD 2025***
 * [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](https://arxiv.org/abs/2601.18467)
 <br>Yuhang Zhou, Kai Zheng, Qiguang Chen, Mengkang Hu, <b>Qingfeng Sun</b>, Can Xu, Jingjing Chen <br> 
   arXiv preprint arXiv:2601.18467
 * [WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://arxiv.org/abs/2306.08568) <br> 
   Ziyang Luo, Can Xu, Pu Zhao, <b>Qingfeng Sun</b>, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang <br> 
-  ICLR 2024
+  ***ICLR 2024***
 * [WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models](https://aclanthology.org/2025.acl-long.246/)
   <br>Huawen Feng<b><sup>#</sup></b>, Pu Zhao, <b>Qingfeng Sun</b>, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang<br>
-  ACL 2025
+  ***ACL 2025***
   
 ## RLVR & RLHF:
 * [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) <br> 
   Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
+  ***ICLR 2025*** [<red>Oral Paper</red>]
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) <br> 
   Haipeng Luo<b><sup>#*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
-  NeurIPS 2024
-* [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
-  Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma
-  arXiv preprint arXiv:2603.01571
-* [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://arxiv.org/abs/2603.01562)
-  Qiyuan Zhang, Junyi Zhou, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Peng Kang, Xue Liu, Chen Ma
-  arXiv preprint arXiv:2603.01562
+  ***NeurIPS 2024***
 * [Zero Reinforcement Learning Towards General Domains](https://arxiv.org/abs/2510.25528)
   <br>Yuyuan Zeng, Yufei Huang, Can Xu, <b>Qingfeng Sun</b>, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
   arXiv preprint arXiv:2510.25528
+* [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
+  <br>Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma<br>
+  arXiv preprint arXiv:2603.01571
+* [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://arxiv.org/abs/2603.01562)
+  <br>Qiyuan Zhang, Junyi Zhou, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Peng Kang, Xue Liu, Chen Ma<br>
+  arXiv preprint arXiv:2603.01562
+
 
 ## General LLM & VLM: 
 * [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244) <br> 
-  Can Xu<b><sup>*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Kai Zheng<b><sup>*</sup></b>, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang <br> 
-  ICLR 2024
+  Can Xu<b><sup>*</sup></b>, <b>Qingfeng Sun<sup>*</sup></b>, Kai Zheng<b><sup>*</sup></b>, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang <br>
+  ***ICLR 2024***
 * [Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought](https://arxiv.org/abs/2505.15431)
-  <br>Tencent Hunyuan Team, Core Contributor<br>
+  <br>Tencent Hunyuan Team, <b>Core Contributor</b><br>
   arXiv preprint arXiv:2505.15431
 * [MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation](https://arxiv.org/abs/2211.05719) <br> 
   Jiazhan Feng<b><sup>#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Pu Zhao, Yaming Yang, Chongyang Tao, Dongyan Zhao, Qingwei Lin <br> 
-  ACL 2023
+  ***ACL 2023***
 * [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) <br> 
   <b>Qingfeng Sun</b>, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang   
-  ACL 2022
+  ***ACL 2022***
 * [Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)  <br> 
   <b>Qingfeng Sun</b>, Can Xu, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu,  Daxin Jiang <br>
-  NAACL 2022 [<red>Oral Paper</red>]
+  ***NAACL 2022*** [<red>Oral Paper</red>]
 
 
 # Open-source Projects
