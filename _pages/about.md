@@ -70,12 +70,12 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html)
   <br>Haipeng Luo<b><sup>\#\*</sup></b>, Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
   ***NeurIPS 2024***
-* [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
-  <br>Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma<br>
-  *arXiv preprint arXiv:2603.01571*
 * [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://arxiv.org/abs/2603.01562)
   <br>Qiyuan Zhang, Junyi Zhou, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Peng Kang, Xue Liu, Chen Ma<br>
   *arXiv preprint arXiv:2603.01562*
+* [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
+  <br>Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma<br>
+  *arXiv preprint arXiv:2603.01571*
 * [Zero Reinforcement Learning Towards General Domains](https://arxiv.org/abs/2510.25528)
   <br>Yuyuan Zeng, Yufei Huang, Can Xu, <b>Qingfeng Sun</b>, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
   *arXiv preprint arXiv:2510.25528*
