@@ -35,7 +35,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [May 2025] [WarriorCoder](https://aclanthology.org/2025.acl-long.246/) accepted by ACL 2025!
 * [Sep 2024] [WizardArena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html) accepted by NeurIPS 2024!
 * [Oct 2024] Wizard models achieves <red>3M+ HF downloads, 9K+ Github stars and ranks #4 globally (#1 opensource) on LMSYS Arena!</red>
-* [Jun 2024] We release [WizardLM-2](https://wizardlm.github.io/WizardLM2/), which ranks <red>#3 in monthly token usage on OpenRouter<red>, just behind Gemini 1.5 Pro and Llama 3.</red>
+* [Jun 2024] We release [WizardLM-2](https://wizardlm.github.io/WizardLM2/), which ranks <red>#3 in monthly token usage on OpenRouter</red>, just behind Gemini 1.5 Pro and Llama 3.
 * [Aug 2023] We release [WizardMath](https://arxiv.org/abs/2308.09583). Accepted by ICLR 2025 as an <red>Oral paper</red>!
 * [Jun 2023] We release [WizardCoder](https://arxiv.org/abs/2306.08568). Accepted by ICLR 2024!
 * [Apr 2023] We release [WizardLM](https://arxiv.org/abs/2304.12244). Accepted by ICLR 2024! Project link: [WizardLM](https://github.com/nlpxucan/WizardLM) .
