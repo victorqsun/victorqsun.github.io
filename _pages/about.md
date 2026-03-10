@@ -27,6 +27,7 @@ blue { color: blue }
 I'm always looking for highly self-motivated students to work with me as research interns. Please email me if you are passionate about natural language processing. -->
 
 # News
+* [Mar 2026] Our two RL papers [RubricBench](https://arxiv.org/abs/2603.01562) and [Beyond Length Scaling](https://arxiv.org/abs/2603.01571) are featured on [Huggingface Daily Paper #4](https://huggingface.co/papers/date/2026-03-03) and [Huggingface Daily Paper #6](https://huggingface.co/papers/date/2026-03-04) respectively!
 * [Jan 2026] [AgentMath](https://arxiv.org/abs/2512.20745) accepted by ICLR 2026!
 * [Aug 2025] We release [Hunyuan-Large-Vision](https://x.com/TencentHunyuan/status/1955241845308686633) which  ranks <red>#5 globally on LMArena-Vision</red> and is the <red>#1 VLM of China</red>.
 * [May 2025] We release [Hunyuan-TurboS](https://arxiv.org/abs/2505.15431) which ranks <red>#7 globally on LMArena-Text<red/> and is the <red>#2 LLM of China<red/>.
