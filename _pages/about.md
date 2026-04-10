@@ -74,10 +74,10 @@ I'm always looking for highly self-motivated students to work with me as researc
   ***NeurIPS 2024***
 * [RubricBench: Aligning Model-Generated Rubrics with Human Standards](https://arxiv.org/abs/2603.01562)
   <br>Qiyuan Zhang, Junyi Zhou, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Peng Kang, Xue Liu, Chen Ma<br>
-  *arXiv preprint arXiv:2603.01562*
+  *ACL 2026*
 * [Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models](https://arxiv.org/abs/2603.01571)
   <br>Qiyuan Zhang, Yufei Wang, Tianhe Wu, Can Xu, <b>Qingfeng Sun</b>, Kai Zheng, Xue Liu, Chen Ma<br>
-  *arXiv preprint arXiv:2603.01571*
+  *ACL 2026, Findings*
 * [Zero Reinforcement Learning Towards General Domains](https://arxiv.org/abs/2510.25528)
   <br>Yuyuan Zeng, Yufei Huang, Can Xu, <b>Qingfeng Sun</b>, Jianfeng Yan, Guanghui Xu, Tao Yang, Fengzong Lian<br>
   *arXiv preprint arXiv:2510.25528*
