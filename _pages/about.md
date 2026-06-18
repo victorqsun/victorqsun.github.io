@@ -52,6 +52,8 @@ I'm always looking for highly self-motivated students to work with me as researc
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>\#</sup></b>, Huawen Feng<b><sup>\#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
   ***ICLR 2026***
+* [STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](https://arxiv.org/pdf/2606.19236)
+  <br>Haipeng Luo<b><sup>\#</sup></b>, <b>Qingfeng Sun</b>, Songli Wu, Can Xu, Wenfeng Deng, Han Hu, Yansong Tang<br>
 * [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
   Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
   ***KDD 2025***
@@ -67,7 +69,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 ## RLVR & RLHF:
 * [WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct](https://arxiv.org/abs/2304.12244) 
-  <br>Haipeng Luo<b><sup>\#</sup></b>, Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
+  <br>Haipeng Luo<b><sup>\#</sup></b>, Qingfeng Sun<b><sup>#</sup></b>, Can Xu, Pu Zhao, Jianguang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Dongmei Zhang<br>
   ***ICLR 2025, <red>Oral Paper</red>*** 
 * [WizardArena: Post-training Large Language Models via Simulated Offline Chatbot Arena](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ca4aa9acc097e0f606af55bf986cb031-Abstract-Conference.html)
   <br>Haipeng Luo<b><sup>\#\*</sup></b>, Qingfeng Sun<b><sup>\*</sup></b>, Can Xu, Pu Zhao, Qingwei Lin, Jianguang Lou, Shifeng Chen, Yansong Tang, Weizhu Chen<br> 
