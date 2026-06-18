@@ -48,7 +48,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=GLMKUEwAAAAJ&hl=en)]
 ### (<b><sup>*</sup></b>: Equal contribution, <b><sup>#</sup></b>: The intern I mentored)
-## Agentic & Code LLM: 
+## Agentic Model: 
 * [AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent](https://arxiv.org/abs/2512.20745)
   <br>Haipeng Luo<b><sup>\#</sup></b>, Huawen Feng<b><sup>\#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
   ***ICLR 2026***
