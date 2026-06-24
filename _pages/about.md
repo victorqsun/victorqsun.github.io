@@ -53,8 +53,11 @@ I'm always looking for highly self-motivated students to work with me as researc
   <br>Haipeng Luo<b><sup>\#</sup></b>, Huawen Feng<b><sup>\#</sup></b>, <b>Qingfeng Sun</b>, Can Xu, Kai Zheng, Yufei Wang, Tao Yang, Han Hu, Yansong Tang, Di Wang<br>
   ***ICLR 2026***
 * [STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](https://arxiv.org/pdf/2606.19236)
-  *arXiv preprint arXiv:2606.19236*
   <br>Haipeng Luo<b><sup>\#</sup></b>, <b>Qingfeng Sun</b>, Songli Wu, Can Xu, Wenfeng Deng, Han Hu, Yansong Tang<br>
+  *arXiv preprint arXiv:2606.19236*
+* [VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct](https://arxiv.org/abs/2606.23543)
+  <br>Haoling Li, Kai Zheng, Jie Wu, Can Xu, <b>Qingfeng Sun</b>, Han Hu, Yujiu Yang<br>
+  *arXiv preprint arXiv:2606.23543*
 * [AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation](https://arxiv.org/abs/2408.00764) <br> 
   Mengkang Hu, Pu Zhao, Can Xu, <b>Qingfeng Sun</b>, Jianguang Lou, Qingwei Lin, Ping Luo, Saravan Rajmohan, Dongmei Zhang<br>
   ***KDD 2025***
