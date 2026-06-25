@@ -110,6 +110,7 @@ I'm always looking for highly self-motivated students to work with me as researc
 # Open-source Projects
 (showing only those I'm the project lead):
 * [WizardLM](https://github.com/nlpxucan/WizardLM) LLMs Family: WizardLM, WizardCoder, WizardMath
+* [STARE](https://github.com/hp-luo/STARE) Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability
 * [Llama-X](https://github.com/AetherCortex/Llama-X) Open Academic Research on Improving LLaMA to SOTA LLM
 * [MMDialog](https://github.com/victorsungo/MMDialog) A Large-scale Multi-turn Dataset Towards VLM
 * [PromDA](https://github.com/GaryYufei/PromDA) Prompt-based Data Augmentation for Low-Resource NLU Tasks
