@@ -17,7 +17,7 @@ blue { color: blue }
 * I am a Senior Researcher at Tencent Hunyuan. I earned my M.S. degree from [Peking University](https://english.pku.edu.cn/) in 2020 and B.S. degree from [HFUT](https://en.hfut.edu.cn/).
 * At Hunyuan, my research mainly focuses on **LLM & VLM**, **Agentic AI**, **Reasoning**, and **Synthetic Data**.
 * At Microsoft, I co-founded [WizardLM](https://github.com/nlpxucan/WizardLM) project, which contributed the SOTA LLMs **WizardLM**, **WizardCoder** and **WizardMath**, I also created widely adopted methods [Evol-Instruct](https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct), [RLEIF](https://arxiv.org/abs/2308.09583) and [Arena-Learning](https://arxiv.org/abs/2304.12244).
-* We are hiring researchers and interns（青云计划）! If you have strong experiences in LLMs and are willing to work in Hunyuan, feel free to shoot me your resume.
+* We are hiring research interns! If you have strong experiences in LLMs and are willing to work in Hunyuan, feel free to shoot me your resume.
 
 
 
